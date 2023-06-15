@@ -11,8 +11,8 @@ const Navigation = () =>{
                 <Logo/>
             </Link>
             <div className='nav-links-container'>
-                <Link className='nav-link' to='/'>
-                    JIJI
+                <Link className='nav-link' to='/sign-in'>
+                    SIGN IN
                 </Link>
             </div>
         </div>
